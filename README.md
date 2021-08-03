@@ -2,35 +2,7 @@
 
 ----------
 
-# Music Bot
 
-
-
-## Commands
-
-
-| Commands | Example | Description | Authorization |
-| ------ | ------ |  ------ | ------ |
-| !play | !play "URL"| Plays the URL | @everyone  |
-| !loop | !loop "URL" "8" | Loops the track eight times | @everyone  |
-| !stop | !pause, !break, !stop | The bot stops the current song | @everyone  |
-| !start | !play, !start | Restarts the paused song | @everyone  |
-| !queue | !queue | Shows the queue | @everyone  |
-| !join | !join, !join "#channel" | Joins in the channel | @everyone  |
-| !leave | !leave | Leaves the channel | @everyone  |
-| !clear | !clear queue, !clear loop | Clears the queue or the loop | @everyone  |
-| !help | !help | Shows a help page | @everyone  |
-| !restet | !restet | Resets everything | @owner |
-| !prefix | !prefix "new prefix" | Changes the prefix to "prefix". | @owner |
-
-----------
-
-## Important
-
-* If the bot is playing something in a channel it cannot be moved with "!join".
-* The bot leaves the channel automatically after 5 min inactivity.
-* When the bot leaves or changes the channel, all songs and queues will be reseted.
-* The bot must be able to run multiple times on the same server.
 
 ----------
 
@@ -46,7 +18,7 @@
 ## Commands
 
 
-| Commands | Example | Description | Authorization |
+| Commands | Example | Description | Authorization | Status |
 | ------ | ------ |  ------ | ------ |
 | !meme | !meme | Sends a meme | @everyone  |
 | !game | !game | A little game | @everyone  |
