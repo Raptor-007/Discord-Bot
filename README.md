@@ -1,7 +1,5 @@
 ![LH-Cyber-Security](Images/image.png)
 
-----------
-
 # Community Bot
 
 
